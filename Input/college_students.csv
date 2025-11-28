@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Department,Year
+S001,John,18,M,CSE,1st
+S002,Priya,19,F,ECE,2nd
+S003,Arun,20,M,IT,3rd
+S004,Megha,18,F,CSE,1st
+S005,David,21,M,MECH,4th
+S006,Sonia,20,F,CSE,2nd
+S007,Rahul,19,M,EEE,3rd
+S008,Keerthi,22,F,IT,4th
+S009,Alex,21,M,CIVIL,2nd
+S010,Farhan,18,M,ECE,1st
